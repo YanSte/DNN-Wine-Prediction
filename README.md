@@ -36,3 +36,12 @@ The notebook is organized into three distinct sections:
 6. **Evaluate the model:** Assess the performance of the trained model by evaluating its predictions on test data.
 7. **Evaluate the best saved model:** Assess the performance of the trained bast model saved by the callback, by evaluating its predictions on test data.
 8. **Make predictions:** Apply the on the best trained model to make predictions on new, unseen wine data.
+
+![DNN](dnn.png)
+
+# Project:
+
+- [Github](https://github.com/YanSteph/DNN-Wine-quality-prediction-with-a-Dense-Network/blob/main/dnn-wine-wine-quality-prediction-with-dnn.ipynb)
+- [Kaggle](https://www.kaggle.com/code/yannicksteph/dnn-wine-wine-quality-prediction-with-dnn)
+
+
