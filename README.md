@@ -1,7 +1,5 @@
 # [DNN]-[Wine] Predicting Wine Quality with a Dense Neural Network (DNN)
 
-[Kaggle](https://www.kaggle.com/code/yannicksteph/dnn-wine-prediction-with-dnn)
-
 In this notebook, we employ a Dense Neural Network (DNN) to perform a prediction task on the renowned Wine Quality dataset.
 
 The [Wine Quality dataset](https://archive.ics.uci.edu/ml/datasets/wine+Quality), comprised of extensive wine analyses, assigns each wine a quality score between 0 and 10. Credit for the dataset goes to [Paulo Cortez](http://www3.dsi.uminho.pt/pcortez) from the University of Minho, Guimarães, Portugal. You can access this dataset from the [University of California Irvine (UCI) Machine Learning Repository](https://archive-beta.ics.uci.edu/ml/datasets/wine+quality).
