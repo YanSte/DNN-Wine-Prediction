@@ -1,5 +1,7 @@
 # | DNN | WINE | Prediction |
-## Dense Neural Network (DNN) for Wine quality Prediction
+## Dense Neural Network (DNN) for Wine Quality Prediction
+
+# <b>1. <span style='color:#78D118'>|</span> Introduction</b>
 
 In this notebook, we employ a Dense Neural Network (DNN) to perform a prediction task on the renowned Wine Quality dataset.
 
@@ -23,7 +25,9 @@ The dataset, due to privacy and logistical issues, only contains physicochemical
 The notebook is structured into the following sections:
 
 ## Objective:
-Our primary aim is to predict wine quality based on the provided analysis data.
+- Our primary aim is to predict wine quality based on the provided analysis data using a simple Dense Neural Network (DNN).
+- Testing the a simple DNN model.
+- The aim is not only to achieve high predictive accuracy but also to create a model that is computationally efficient and easily interpretable, offering valuable insights into the relationships between physicochemical properties and wine quality.
 
 ## Steps:
 1. **Imports, Constants, & Methods**: Set up the necessary libraries, constants, and methods for the task.
@@ -32,14 +36,4 @@ Our primary aim is to predict wine quality based on the provided analysis data.
 4. **Model Creation**: Design and establish a Dense Neural Network (DNN) for predicting wine quality.
 5. **Model Training & Saving**: Train the DNN on the prepared dataset and store the trained model for future reference.
 6. **Model Evaluation**: Gauge the performance of the trained model by evaluating its predictions against the test data.
-7. **Evaluation of Best Saved Model**: Assess the performance of the best model saved during training, by evaluating its predictions on test data.
-8. **Prediction**: Use the best-trained model to generate predictions on new, unseen wine data.
-
-![DNN](dnn.png)
-
-# Project:
-
-- [Github](https://github.com/YanSteph/DNN-Wine-quality-prediction-with-a-Dense-Network/blob/main/dnn-wine-wine-quality-prediction-with-dnn.ipynb)
-- [Kaggle](https://www.kaggle.com/code/yannicksteph/dnn-wine-wine-quality-prediction-with-dnn)
-
-
+7. **Best Model Evaluation & Prediction**: Assess the performance of the best model saved during training, by evaluating its predictions on test data. And Use the best-trained model to generate predictions on new, unseen wine data.
