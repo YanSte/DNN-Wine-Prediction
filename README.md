@@ -38,6 +38,8 @@ The notebook is structured into the following sections:
 6. **Model Evaluation**: Gauge the performance of the trained model by evaluating its predictions against the test data.
 7. **Best Model Evaluation & Prediction**: Assess the performance of the best model saved during training, by evaluating its predictions on test data. And Use the best-trained model to generate predictions on new, unseen wine data.
 
+![DNN](dnn.png)
+
 # Project:
 - [Github](https://github.com/YanSteph/DNN-Wine-quality-prediction-with-a-Dense-Network/blob/main/dnn-wine-wine-quality-prediction-with-dnn.ipynb)
 - [Kaggle](https://www.kaggle.com/code/yannicksteph/dnn-wine-wine-quality-prediction-with-dnn)
