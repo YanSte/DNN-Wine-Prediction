@@ -1,7 +1,7 @@
 # | DNN | WINE | Prediction |
 ## Dense Neural Network (DNN) for Wine Quality Prediction
 
-# <b>1. <span style='color:#78D118'>|</span> Introduction</b>
+# <b>Introduction</b>
 
 In this notebook, we employ a Dense Neural Network (DNN) to perform a prediction task on the renowned Wine Quality dataset.
 
